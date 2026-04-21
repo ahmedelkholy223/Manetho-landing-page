@@ -1,0 +1,46 @@
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  color: #f8f8f8;
+  background: #0d0d0d;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero {
+  border: 1px solid #2a2a2a;
+  background: linear-gradient(145deg, #121212, #1a1a1a);
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+.badge {
+  color: #ffd84d;
+  font-weight: 600;
+}
+
+h1,
+h2 {
+  color: #ffd84d;
+}
+
+button {
+  margin-right: 0.75rem;
+  background: #ffd84d;
+  color: #111;
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1rem;
+  font-weight: 700;
+}
+
+section {
+  margin-top: 2rem;
+}
